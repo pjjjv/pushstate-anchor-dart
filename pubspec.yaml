@@ -6,7 +6,7 @@ homepage: https://github.com/pjjjv/pushstate-anchor-dart
 environment:
   sdk: '>=1.6.0 <2.0.0'
 dependencies:
-  browser: any
+  browser: ">=0.10.0+2 <0.11.0"
   polymer: ">=0.15.3+2 <0.16.0"
 #transformers:
 #- polymer:

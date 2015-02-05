@@ -1,8 +1,0 @@
-
-{
-"private": true,
-"name": "pushstate-anchor-dart",
-"dependencies": {
-"pushstate-anchor": "~0.3.0"
-}
-}
