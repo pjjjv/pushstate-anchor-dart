@@ -1,0 +1,14 @@
+name: pushstate_anchor_dart
+version: 0.1.0
+author: pjv <ezelspinguin@gmail.com>
+description: Extend the <a> tag with history.pushState(). Dart translation of pushstate-anchor that is compatible with Polymer.dart. Original author is Erik Ringsmuth <erik.ringsmuth@gmail.com>.
+homepage: https://github.com/pjjjv/pushstate-anchor-dart
+environment:
+  sdk: '>=1.6.0 <2.0.0'
+dependencies:
+  browser: any
+  polymer: ">=0.15.3+2 <0.16.0"
+#transformers:
+#- polymer:
+#    entry_points:
+#    - web/demo.html
